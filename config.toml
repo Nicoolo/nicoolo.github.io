@@ -1,4 +1,4 @@
-baseURL = 'https://nicoolo.github.io/nuit-imagination-1/'
+baseURL = 'https://nicoolo.github.io'
 languageCode = 'fr-fr'
 theme = 'sugoi'
 title = "Le blog de Nicolas"
