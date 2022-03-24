@@ -1,6 +1,6 @@
 baseURL = 'https://nicoolo.github.io/nuit-imagination-1/'
 languageCode = 'fr-fr'
-theme = 'soho'
+theme = 'sugoi'
 title = "Le blog de Nicolas"
 
 enableEmoji = true
