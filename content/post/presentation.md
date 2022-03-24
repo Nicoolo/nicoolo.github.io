@@ -1,6 +1,6 @@
 +++
 title = "**INTRODUCTION**"
-date = "*24/03/2022*"
+date = "*2022-03-24*"
 description = "premier article" 
 +++
 
