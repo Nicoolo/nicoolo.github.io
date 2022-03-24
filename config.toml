@@ -1,6 +1,6 @@
 baseURL = 'https://nicoolo.github.io'
 languageCode = 'fr-fr'
-theme = 'sugoi'
+theme = 'soho'
 title = "Le blog de Nicolas"
 
 enableEmoji = true
